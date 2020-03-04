@@ -1,12 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+r"""
+Here your descryption.
+"""
 
 import os
 import json
 
 __author__ = 'soroush safari'
 __version__ = 0.1
-__maintainer__ = "soroush safarii"
+__maintainer__ = "soroush safari"
 __license__ = "MIT"
 __email__ = "soroush_safarii@yahoo.com"
 __github__ = "github.com/coci"
